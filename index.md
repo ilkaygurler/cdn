@@ -1,3 +1,13 @@
-## ilkaygurler depo alt alan sayfası
-
-Bu sayfa ziyaretçilermiz için oluşturulmamıştır.
+<html lang="tr-TR">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="refresh" content="5; url=https://www.ilkaygurler.com/">
+<title>CDN - ILKAYGURLER</title>
+<style>
+h1{display:none}
+</style>
+</head>
+<body>
+Otomatik olarak yönlendirilmezseniz, <a href="https://www.ilkaygurler.com/"> bu bağlantıya tıklayıp</a> devam edebilirsiniz.
+</body>
+</html>
