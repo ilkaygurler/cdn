@@ -2,7 +2,7 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="refresh" content="5; url=https://www.ilkaygurler.com/">
-#CDN - ILKAYGURLER
+##CDN - ILKAYGURLER
 <style>
 h1{display:none}
 </style>
