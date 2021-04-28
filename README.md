@@ -1,6 +1,7 @@
 <html>
 <head>
-<meta http-equiv='refresh' content='0; url=https://www.ilkaygurler.com'> 
+<!--[ No index ]-->
+<meta content='noindex,noarchive' name='robots'/>
 </head>
 <body>
 </body>
