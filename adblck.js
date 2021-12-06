@@ -1,4 +1,4 @@
 var e=document.createElement('div');
 e.id='lzUcIaiRnZBM';
-e.style.display='none';
+e.style.display='block';
 document.body.appendChild(e);
