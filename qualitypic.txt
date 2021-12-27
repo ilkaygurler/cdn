@@ -194,7 +194,7 @@ $(function() {
             u = $('<div>').html(p);
         if ('media$thumbnail' in feed[i]) {
             var src = feed[i].media$thumbnail.url,
-                s1 = src.replace('/s72-c', '/w680');
+                s1 = src.replace('/s0', '/w680');
             if (p.indexOf('youtube.com/embed') > -1) {
                 s1 = src.replace('/default.', '/hqdefault.');
             }
