@@ -69,5 +69,19 @@ body {
     overflow: hidden;
     max-width: 320px;
 }
+    .erroC h3 span.e {
+    animation: glitch 1s linear infinite;
+}
+.erroC h3 span.e {
+    display: block;
+    font-size: 140px;
+    line-height: .8;
+    margin-bottom: -1rem;
+    color: #ebebf0;
+}
+    .erroC h3 span:not(.e) {
+    position: relative;
+}
+    
 </style>
 
