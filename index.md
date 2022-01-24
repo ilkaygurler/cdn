@@ -1,7 +1,73 @@
-<meta content='0;url=https://www.ilkaygurler.com' http-equiv='Refresh'/>
-<title>cdn</title>
-Bu sayfa ziyaretçiler için oluşturulmamıştır.
-Otomatik olarak yönlendirilmezseniz, <a href="https://www.ilkaygurler.com/"> bu bağlantıya tıklayıp</a> devam edebilirsiniz.
-<style>h1, h2{display:none}</style>
-<link href='https://cdn.ilkaygurler.com/favicon.png' rel='icon' type='image/x-icon'/>
-<link href='https://cdn.ilkaygurler.com/favicon.png' rel='shortcut icon' type='image/x-icon'/>
+
+<title>Sayfa bulunamadı &#8211; İlkay Gürler</title>
+<body class="bD on404" id="mainCont">
+<!--[ Show only one grid column in Mobile ]-->
+<section class="erroP">
+<div class="erroC section" id="error-404"><div class="widget HTML" data-version="2" id="HTML404">
+<h3><span class="e" title="404">404</span><span>Aradığınız sayfa bulunamadı!</span></h3>
+
+<p>Böyle bir sayfa hiç olmadı veya daha önce silinmiş.</p>
+<a class="button" href="https://www.ilkaygurler.com/">Anasayfaya dön!</a>
+</div></div>
+</section>
+</body>
+<style>h1, h2{display:none}
+body {
+    position: relative;
+    margin: 0;
+    padding: 0!important;
+    width: 100%;
+    font-family: var(--fontB);
+    font-size: 14px;
+    color: var(--bodyC);
+    background: var(--bodyB);
+    -webkit-font-smoothing: antialiased;
+}
+  .erroP {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+    padding: 0;
+}
+  .erroC {
+    width: calc(100% - 40px);
+    max-width: 450px;
+    margin: auto;
+    font-family: var(--fontBa);
+}
+  .erroC h3 {
+    font-size: 1.414rem;
+    font-family: inherit;
+}
+  .erroC p {
+    margin: 30px 5%;
+    line-height: 1.6em;
+    opacity: .7;
+}
+  .erroC .button {
+    margin: 0;
+    padding-left: 2em;
+    padding-right: 2em;
+    font-size: 14px;
+}
+.button {
+    display: inline-flex;
+    align-items: center;
+    margin: 10px 0;
+    padding: 12px 15px;
+    outline: 0;
+    border: 0;
+    border-radius: 2px;
+    line-height: 20px;
+    color: #fffdfc;
+    background: var(--linkB);
+    font-size: 14px;
+    font-family: var(--fontB);
+    white-space: nowrap;
+    overflow: hidden;
+    max-width: 320px;
+}
+</style>
+
