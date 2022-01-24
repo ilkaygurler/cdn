@@ -82,6 +82,6 @@ body {
     .erroC h3 span:not(.e) {
     position: relative;
 }
-    
+@keyframes glitch{2%,64%{transform:translate(2px,0) skew(0deg)} 4%,60%{transform:translate(-2px,0) skew(0deg)} 62%{transform:translate(0,0) skew(5deg)}}    
 </style>
 
